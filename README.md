@@ -1,6 +1,7 @@
 # fashion_ui
 
 A new Flutter project.
+Download or clone the project, and run it the way you would run any other Flutter projects.
 
 ## Getting Started
 
